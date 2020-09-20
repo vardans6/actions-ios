@@ -16,7 +16,7 @@ env:
   CONFIGURATION: "Release"
   SCHEME: "Actions"
   SIGNING_TYPE: "IOS_APP_STORE"
-  TARGET: "Actions"
+  TARGET:  "Actions"
 
 jobs:
   archive:
